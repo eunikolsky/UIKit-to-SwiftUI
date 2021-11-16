@@ -48,10 +48,10 @@
             </objects>
             <point key="canvasLocation" x="138" y="96"/>
         </scene>
-        <!--Hosting Controller-->
+        <!--Counter Hosting Controller-->
         <scene sceneID="xKU-PG-Sf6">
             <objects>
-                <hostingController id="W75-Mh-XQB" sceneMemberID="viewController"/>
+                <hostingController id="W75-Mh-XQB" customClass="CounterHostingController" customModule="UIKit_to_SwiftUI" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8Y8-st-VGd" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="674" y="-171"/>

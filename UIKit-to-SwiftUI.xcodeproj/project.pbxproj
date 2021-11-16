@@ -14,6 +14,7 @@
 		14D2E4D62742E2ED0043AC2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14D2E4D52742E2ED0043AC2B /* Assets.xcassets */; };
 		14D2E4D92742E2ED0043AC2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14D2E4D72742E2ED0043AC2B /* LaunchScreen.storyboard */; };
 		14D2E4E2274429090043AC2B /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D2E4E1274429090043AC2B /* CounterView.swift */; };
+		14D2E4E627442F210043AC2B /* CounterHostingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D2E4E527442F210043AC2B /* CounterHostingController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		14D2E4D82742E2ED0043AC2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14D2E4DA2742E2ED0043AC2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14D2E4E1274429090043AC2B /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		14D2E4E527442F210043AC2B /* CounterHostingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterHostingController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				14D2E4CE2742E2EC0043AC2B /* SceneDelegate.swift */,
 				14D2E4D02742E2EC0043AC2B /* ViewController.swift */,
 				14D2E4D22742E2EC0043AC2B /* Main.storyboard */,
+				14D2E4E527442F210043AC2B /* CounterHostingController.swift */,
 				14D2E4D52742E2ED0043AC2B /* Assets.xcassets */,
 				14D2E4D72742E2ED0043AC2B /* LaunchScreen.storyboard */,
 				14D2E4DA2742E2ED0043AC2B /* Info.plist */,
@@ -146,6 +149,7 @@
 				14D2E4CD2742E2EC0043AC2B /* AppDelegate.swift in Sources */,
 				14D2E4E2274429090043AC2B /* CounterView.swift in Sources */,
 				14D2E4CF2742E2EC0043AC2B /* SceneDelegate.swift in Sources */,
+				14D2E4E627442F210043AC2B /* CounterHostingController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
