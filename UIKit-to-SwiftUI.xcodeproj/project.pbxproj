@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14AF3B742748D0C70037EFEE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		14D2E4C92742E2EC0043AC2B /* UIKit-to-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKit-to-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14D2E4CC2742E2EC0043AC2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14D2E4CE2742E2EC0043AC2B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		14D2E4C02742E2EC0043AC2B = {
 			isa = PBXGroup;
 			children = (
+				14AF3B742748D0C70037EFEE /* LICENSE */,
 				14D2E4CB2742E2EC0043AC2B /* UIKit-to-SwiftUI */,
 				14D2E4CA2742E2EC0043AC2B /* Products */,
 			);
