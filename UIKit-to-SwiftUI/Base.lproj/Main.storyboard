@@ -33,7 +33,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <connections>
-                                            <segue destination="W75-Mh-XQB" kind="embed" id="jt5-ur-bc7"/>
+                                            <segue destination="W75-Mh-XQB" kind="embed" identifier="counterSegue" id="jt5-ur-bc7"/>
                                         </connections>
                                     </containerView>
                                 </subviews>
