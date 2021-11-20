@@ -1,0 +1,1 @@
+This is a sample project showing how to embed a SwiftUI view in a storyboard and be able to update its state. More information is at https://egeek.me/2021/11/20/communicate-uikit-to-swiftui/.
